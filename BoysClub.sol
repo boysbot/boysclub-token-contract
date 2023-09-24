@@ -1,10 +1,10 @@
-/**
- *Submitted for verification at Etherscan.io on 2023-09-18
-*/
-
 //SPDX-License-Identifier: MIT
 // File: @openzeppelin/contracts@4.9.3/utils/Context.sol
 
+// Web Site : boysbot.club
+// Twitter: https://twitter.com/BoysClub_bot
+// Telegram: https://t.me/BoysBotOfficial
+// Contact : zayn@boysbot.club 
 
 // OpenZeppelin Contracts v4.4.1 (utils/Context.sol)
 
